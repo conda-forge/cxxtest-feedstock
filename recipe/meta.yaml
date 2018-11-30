@@ -24,6 +24,9 @@ requirements:
    - python
 
 test:
+    requires:
+     - {{ compiler('c') }}
+     - {{ compiler('cxx') }}
     source_files:
         - doc/examples/MyTestSuite1.h
 
