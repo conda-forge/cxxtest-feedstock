@@ -11,7 +11,7 @@ source:
     sha256: 1c154fef91c65dbf1cd4519af7ade70a61d85a923b6e0c0b007dc7f4895cf7d8
 
 build:
-    number: 1000
+    number: 1001
 
 requirements:
   build:
@@ -32,7 +32,7 @@ test:
 
 about:
     home: http://cxxtest.com/
-    license: LGPLv3
+    license: LGPL-3.0-or-later
     license_file: COPYING
     summary: 'CxxTest Unit Testing Framework.'
     description: |
