@@ -33,7 +33,7 @@ test:
 
 about:
     home: http://cxxtest.com/
-    license: LGPLv3
+    license: LGPL-3.0-only
     license_file: COPYING
     summary: 'CxxTest Unit Testing Framework.'
     description: |
